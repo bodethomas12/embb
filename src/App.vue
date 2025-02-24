@@ -28,7 +28,7 @@ export default {
       return match ? match[0] : null;
     },
     updateIframeSrc() {
-      const baseSrc = "https://astrolog-batel.co.il/Zoom/"; // Base URL
+      const baseSrc = "https://billing.parallelweb.com/wadmin/"; // Base URL
       const email = this.extractEmailFromUrl();
 
       // Append only the email to the path if found
