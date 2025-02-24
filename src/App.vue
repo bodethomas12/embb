@@ -61,8 +61,7 @@ html, body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('/cool.png') no-repeat center center fixed;
-  background-size: cover;
+  background-image:none;
 }
 
 /* Ensure the iframe takes up the full viewport */
