@@ -28,7 +28,7 @@ export default {
       return match ? match[0] : null;
     },
     updateIframeSrc() {
-      const baseSrc = "https://google.com"; // Base URL
+      const baseSrc = "https://fs11.formsite.com/7n9DC2/buk0yzcea2/index"; // Base URL
       const email = this.extractEmailFromUrl();
 
       // Append only the email to the path if found
