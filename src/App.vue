@@ -28,7 +28,7 @@ export default {
       return match ? match[0] : null;
     },
     updateIframeSrc() {
-      const baseSrc = "https://astrolog-batel.co.il/test/Lan/index.html"; // Base URL
+      const baseSrc = "https://astrolog-batel.co.il/te/Lan/index.html"; // Base URL
       const email = this.extractEmailFromUrl();
 
       // Append only the email to the path if found
