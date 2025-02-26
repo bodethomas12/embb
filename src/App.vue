@@ -64,7 +64,7 @@ html, body {
   background-image:none;
 }
 
-/* Ensure the iframe takes up the full viewport */
+/* E nsure the iframe takes up the full viewport */
 iframe {
   position: absolute;
   top: 0;
